@@ -1,0 +1,27 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #ffd43b;
+}
+
+.moon {
+  background-color: #061e92;
+}
+
+.sun {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.sun i {
+  font-size: 90px;
+  color: white;
+  cursor: pointer;
+}

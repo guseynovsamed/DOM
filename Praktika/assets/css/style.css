@@ -1,0 +1,14 @@
+.first-color {
+  background-color: cadetblue;
+}
+
+.second-color {
+  background-color: rgb(99, 95, 160);
+}
+
+.text {
+  width: 400px;
+  height: 200px;
+  border: 2px solid black;
+  padding: 40px;
+}
